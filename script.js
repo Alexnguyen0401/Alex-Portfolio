@@ -15,7 +15,7 @@ const projects = {
   },
   tiktok: {
     title: "TIKTOK VIRAL",
-    description: "Funny clips, trending moments and viral TikTok videos. Add a public TikTok video URL and enter its view count manually in script.js.",
+    description: "Funny clips, trending moments and viral TikTok videos.",
     ratio: "vertical",
     platform: "tiktok",
     videos: [
