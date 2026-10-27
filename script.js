@@ -19,7 +19,7 @@ const projects = {
     ratio: "vertical",
     platform: "tiktok",
     videos: [
-      // Add items like: { title: "Viral Clip 01", url: "https://www.tiktok.com/@creator/video/1234567890123456789", views: "1.2M views", note: "Comedy" }
+    { title: "Viral Clip 01", url: https://www.tiktok.com/@linhanh.duide/video/7696099124394970376", views: "1.2M views", note: "Comedy" }
     ]
   },
   product: {
